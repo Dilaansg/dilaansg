@@ -2,14 +2,11 @@
 # Dilan Osorio ⚡︎
 
 ### ☄️ About me
-
 -  Cursando primer semestre de **Ingeniería de Sistemas y Computación** en la Universidad de los Andes.
 -  Apasionado por el desarrollo de software, la resolución de problemas y la creación de tecnología con impacto social.
-- Tengo de metas realizar una maestría/doctorado en Inteligencia Artificial.
 - Colombiano 🇨🇴.
 
 ### 🌌 Proyectos
-
 - 🕶️ **Asistente de Cruce Para Invidentes (Medalla de Oro - Infomatrix Sudamérica):** Sistema desarrollado para asistir a personas con discapacidad visual a cruzar calles de forma segura.
 - 🤟 **GESTO:** Plataforma orientada al aprendizaje interactivo del Lenguaje de Señas Colombiano LSC con visión artificial.
 
