@@ -8,8 +8,6 @@
 - Tengo de metas realizar una maestría/doctorado en Inteligencia Artificial.
 - Colombiano 🇨🇴.
 
----
-
 ### 🌌 Proyectos
 
 - 🕶️ **Asistente de Cruce Para Invidentes (Medalla de Oro - Infomatrix Sudamérica):** Sistema desarrollado para asistir a personas con discapacidad visual a cruzar calles de forma segura.
