@@ -8,7 +8,7 @@
 ### 🌌 Projects
 - 🕶️ **Asistente de Cruce Para Invidentes (Medalla de Oro - Infomatrix Sudamérica):** Sistema desarrollado para asistir a personas con discapacidad visual a cruzar calles de forma segura.
 - 🤟 **GESTO:** Plataforma orientada al aprendizaje interactivo del Lenguaje de Señas Colombiano LSC con visión artificial.
-- 💬 **Prompt Enhacer (IAndes)** Extensión de Chrome para mejorar entradas de prompts a los LLM con enfoque de sostenibilidad, privacidad y sin fricción para el usuario final
+- 💬 **Prompt Enhacer (IAndes)**: Copiloto que ayuda a las personas a mejorar sus entradas de prompts a los LLM con enfoque de sostenibilidad, privacidad y sin fricción.
 
 
 ---
