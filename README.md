@@ -1,4 +1,4 @@
-# Hello, im Dilan Osorio ⚡︎
+# Hello, I am Dilan Osorio ⚡︎
 
 <p align="left">
   <b>Passionate about AI, Software Development, and Project Management.</b><br>
